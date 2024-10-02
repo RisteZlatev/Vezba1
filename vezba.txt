@@ -1,2 +1,6 @@
 riste
 naslov na aplikacija
+
+
+
+footer na aplikacija

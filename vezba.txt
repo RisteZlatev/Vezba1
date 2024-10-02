@@ -1,1 +1,2 @@
 riste
+naslov na aplikacija
